@@ -6,7 +6,7 @@ Datu struktura - {} ta tuksa vardnica
 """
 
 class AAA:
-    def init(self):
+    def __init__(self):
         self.rom_cip={
             1: 'I',
             4: 'IV',
